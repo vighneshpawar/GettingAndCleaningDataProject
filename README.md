@@ -1,7 +1,5 @@
 # Getting and Cleaning Data - Course Project
 
-## Author
-[Your Name Here]
 
 ## Overview
 This project is part of the Coursera course **Getting and Cleaning Data**. The objective is to demonstrate the ability to collect, clean, and prepare data for analysis. The dataset used in this project is derived from experiments carried out using smartphones to capture human activity data.
